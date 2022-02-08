@@ -1,0 +1,11 @@
+git clone
+cd C:\Users\astifter\Test_astifter_mguttenb
+git add C:\Users\astifter\Test_astifter_mguttenb\astifter.txt
+git commit
+git push
+git pull
+
+Aufgabe 2
+git commit
+git push
+git pull
