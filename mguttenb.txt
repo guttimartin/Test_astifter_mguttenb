@@ -1,0 +1,7 @@
+git clone https://github.com/guttimartin/Test_astifter_mguttenb.git
+cd C:\Users\Martin\Test_astifter_mguttenb
+git add mguttenb.txt
+git commit mguttenb.txt
+
+git pull
+git push
